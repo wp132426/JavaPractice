@@ -11,7 +11,7 @@ public class PrimitiveDataType {
 		double cm =161.8;
 		float n = 44.3f;
 		char blood = 'A';
- 
+		
 		System.out.println("<<아이유 프로필>>");
 		System.out.println("이름 : " + name);
 		if(female = true)
