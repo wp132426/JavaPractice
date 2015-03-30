@@ -12,6 +12,7 @@ public class Loop {
 				{
 					System.out.print("*");
 					continue;
+					
 				}
 					
 				System.out.print(j);
